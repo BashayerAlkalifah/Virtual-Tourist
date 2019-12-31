@@ -15,7 +15,7 @@ Virtual Tourist is an app that downloads and stores images from Flickr. The app 
 - all loaded photos and pins will be stored using coredata.
 
 ## Requirements to run this app
-* Xcode 111.2
+* Xcode 11.2
 * Swift 5
 * Flickr API
 This app uses the Flickr API to get photos associated to a specific location
