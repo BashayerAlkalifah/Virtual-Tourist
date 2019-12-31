@@ -75,10 +75,18 @@
 				30C5F44A23AAEF80003CDC83 /* Resources */,
 				30C5F44923AAEF59003CDC83 /* model */,
 				30C5F44823AAEF24003CDC83 /* controller */,
+				30A33DD923BBFBFF002FF413 /* Extension */,
 				30070D122396B8480095CC96 /* Info.plist */,
-				30A33DD723B85044002FF413 /* extension.swift */,
 			);
 			path = "Virtual Tourist";
+			sourceTree = "<group>";
+		};
+		30A33DD923BBFBFF002FF413 /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				30A33DD723B85044002FF413 /* extension.swift */,
+			);
+			path = Extension;
 			sourceTree = "<group>";
 		};
 		30C5F44823AAEF24003CDC83 /* controller */ = {
